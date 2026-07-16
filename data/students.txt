@@ -1,0 +1,3 @@
+1001,Amit T,4th Sem,A,Male,897456888,Bangalore
+1007,Rakesh Alok,4th Sem,A,Male,8886178974,Belagavi
+1005,Riya Patel,4th Sem,A,Female,7337604276,Belagavi

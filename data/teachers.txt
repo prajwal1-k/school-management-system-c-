@@ -1,0 +1,3 @@
+11001,Prof. Rakesh M,CSE,Software Engineering,8861083697,rakesh@gmail.com
+110,Prof. Nikita D,BCA,DSA,7892563789,nikita@gmail.com
+T105,Prof. Shreyas P,BCA,Computer Networks,789254677,shreyas@gmail.com

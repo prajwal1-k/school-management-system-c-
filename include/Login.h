@@ -1,0 +1,12 @@
+#ifndef LOGIN_H
+#define LOGIN_H
+
+#include "User.h"
+
+class Login
+{
+public:
+    User authenticate();
+};
+
+#endif
